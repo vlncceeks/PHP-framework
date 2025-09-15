@@ -1,3 +1,5 @@
 # PHP-framework
-Framework for content management.
-The project is designed for a deep understanding of how large frameworks work.
+Фреймворк для управления контентом.<br>
+Проект сделан на MySQL, используемые подходы: MVC, чистая архитектура, простая маршрутизация и обработка HTTP-запросов. Использование PDO и собственной ORM-обёртки для работы с базой данных.<br>
+Функциональность:<br>
+• Все CRUD-операции для статей и комментариев под ними.
