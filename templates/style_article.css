@@ -1,0 +1,6 @@
+.card__container {
+    border: 0px solid black;
+}
+* {
+    background-color: red;
+}
